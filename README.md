@@ -27,3 +27,9 @@ Stop Bits: Indicates the end of a data packet.
 Technologies Used
 
 EDA Playground: For designing and verifying the UART Program
+![result1](https://github.com/user-attachments/assets/8233b9a8-e447-40f6-a387-9f9f679b2843).
+![result2](https://github.com/user-attachments/assets/8d34fc2a-2c4f-46fc-8e33-8bce6b2c5c6e)
+
+
+
+
